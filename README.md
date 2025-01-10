@@ -1,4 +1,5 @@
-# Social Media Analyzer using LangFlow and DataStax AstraDB
+# Sociallytic.io
+## Social Media Analyzer using LangFlow and DataStax AstraDB
 
 ## Overview
 
