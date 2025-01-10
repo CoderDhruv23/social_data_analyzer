@@ -60,6 +60,9 @@ To run the Social Media Analyzer locally, follow these steps:
 - **Node.js** for backend development
 
   <img src="/images/langflow.jpg" height="550" alt="langflow screenshot"  />
+    <img src="/images/chatbot1.jpg" height="550" alt="chatbot screenshot"  />
+  <img src="/images/chatbot2.jpg" height="550" alt="chatbot screenshot"  />
+
 
 ## Conclusion
 
