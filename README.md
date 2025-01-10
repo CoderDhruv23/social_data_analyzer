@@ -9,4 +9,4 @@ To complement the project, we created a YouTube video that explains the function
 
 This project showcases the potential of leveraging data-driven insights for informed decision-making, offering a novel approach to understanding the ever-evolving landscape of social media.
 
-  <img src="/public/langflow.jpg" height="150" alt="langflow screenshot"  />
+  <img src="/images/langflow.jpg" height="550" alt="langflow screenshot"  />
