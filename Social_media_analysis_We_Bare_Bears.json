@@ -2289,7 +2289,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "google_api_key",
-                "value": "AIzaSyBx-gKyVeFOkCzm-qTnCIaJSMmI271CJRM",
+                "value": "API_KEY",
                 "display_name": "Google API Key",
                 "advanced": false,
                 "input_types": [
